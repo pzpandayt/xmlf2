@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricket>
+    <psl>
+        <team>karachi kings</team>
+        <captain>shan masood</captain>
+    </psl>
+
+    <psl>
+        <team>multan sultan</team>
+        <captain>m . rizwan</captain>
+    </psl>
+
+    <psl>
+        <team>lahore qalanders</team>
+        <captain>shaheen afridi</captain>
+    </psl>
+
+    <psl>
+        <team>islamabad united</team>
+        <captain>shadab khan</captain>
+    </psl>
+
+    <psl>
+        <team>quetta gladiators</team>
+        <captain>sarfaraz ahmed</captain>
+    </psl>
+
+    <psl>
+        <team>peshawar zalmi</team>
+        <captain>babar azam</captain>
+    </psl>
+    
+</cricket>
