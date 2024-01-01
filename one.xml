@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cricket>
-    <psl>
+    <psl type="muhajir">
         <team>karachi kings</team>
         <captain>shan masood</captain>
     </psl>
 
-    <psl>
+    <psl type="multani">
         <team>multan sultan</team>
         <captain>m . rizwan</captain>
     </psl>
 
-    <psl>
+    <psl type="lahori">
         <team>lahore qalanders</team>
         <captain>shaheen afridi</captain>
     </psl>
 
-    <psl>
+    <psl type="burger">
         <team>islamabad united</team>
         <captain>shadab khan</captain>
     </psl>
 
-    <psl>
+    <psl type="balouch">
         <team>quetta gladiators</team>
         <captain>sarfaraz ahmed</captain>
     </psl>
 
-    <psl>
+    <psl type="pathan">
         <team>peshawar zalmi</team>
         <captain>babar azam</captain>
     </psl>
