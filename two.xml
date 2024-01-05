@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<freefire>
+    <b:modes xmlns:b="https://www.freefire.com/br">
+        <b:character>wukong</b:character>
+        <b:skill>camoflauge</b:skill>
+        <b:bestusein>cs</b:bestusein>
+    </b:modes>
+
+    <c:modes xmlns:c="https://www.freefire.com/cs">
+        <c:character>raffel</c:character>
+        <c:skill>silent the sniper voice</c:skill>
+        <c:bestusein>long range</c:bestusein>
+    </c:modes>
+
+    <l:modes xmlns:l="https://www.freefire.com/lw">
+        <l:character>dimitri</l:character>
+        <l:skill>revive and healing</l:skill>
+        <l:bestusein>cs and br</l:bestusein>
+    </l:modes>
+</freefire>

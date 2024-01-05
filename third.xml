@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="one.xsl" type="text/xsl"?>
+
+<class>
+    <student>
+        <name>kelly</name>
+        <age>21</age>
+        <number>550</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>hayato</name>
+        <age>22</age>
+        <number>600</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>wukong</name>
+        <age>23</age>
+        <number>650</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>alok</name>
+        <age>24</age>
+        <number>700</number>
+        <grade>A</grade>
+    </student>
+</class>
